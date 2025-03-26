@@ -1,0 +1,35 @@
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling using a class */
+.main-heading {
+    color: #007bff;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+/* Styling using an ID */
+#intro-text {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #007bff;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+    border: 3px solid #333;
+}
